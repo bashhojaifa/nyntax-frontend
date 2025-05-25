@@ -41,11 +41,14 @@ A real-time, two-player Shiritori game built using the **MERN stack**.
 
 ### 1. Clone the Frontend Repository
 
-````bash
+```bash
 git clone git@github.com:bashhojaifa/nyntax-frontend.git
 cd nyntax-frontend
+```
+
+### 2. Clone the Backend Repository
 
 ```bash
 git git@github.com:bashhojaifa/nyntax-backend.git
 cd nyntax-backend
-````
+```
